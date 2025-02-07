@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @jandrewq
-- 👀 I’m interested in AI and business
+- 👋 Hi, I’m @jandrew
 - 🌱 I’m currently learning Qwerky AI's new UI
 - 💞️ I’m looking to collaborate with businesses
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Little League Baseball Coach
 
 <!---
