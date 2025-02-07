@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jandrew
 - 🌱 I’m currently learning Qwerky AI's new UI
 - 💞️ I’m looking to collaborate with businesses
-- 📫 How to reach me ...
+- 📫 andrew@qwerky.ai
 - ⚡ Fun fact: Little League Baseball Coach
 
 <!---
