@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jandrew
+- 👋 Hi, I’m @jandrewq
 - 🌱 I’m currently learning Qwerky AI's new UI
 - 💞️ I’m looking to collaborate with businesses
 - 📫 andrew@qwerky.ai
