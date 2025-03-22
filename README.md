@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jandrewq
-- 🌱 I’m currently learning Qwerky AI's new UI
+- 🌱 I’m with my model
 - 💞️ I’m looking to collaborate with businesses
 - 📫 andrew@qwerky.ai
 - ⚡ Fun fact: Little League Baseball Coach
