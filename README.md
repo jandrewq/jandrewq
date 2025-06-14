@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jandrewq
 - 🌱 I’m with my model
-- 💞️ I’m looking to collaborate with businesses
+- 💞️ I’m looking for a 💼
 - 📫 andrew@qwerky.ai
 - ⚡ Fun fact: Little League Baseball Coach
 
